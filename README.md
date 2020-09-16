@@ -7,7 +7,7 @@ HW submission
 
 ### What is Enfusion?
 ---
-	Enfusion is a start-up software company located in Chicago, Illinois founded by Tarek Hammoud and Stephen Malherbe.
+Enfusion is a start-up software company located in Chicago, Illinois founded by Tarek Hammoud and Stephen Malherbe.
   There is no specific date for their founding, but the company was created around the year 2006. Enfusion is focused primarily on creating a cloud-based product for asset management.
   According to Bloomberg “The company offers order management, portfolio management, valuation and risk, accounting, reconciliation, reporting, and fund service,”. The company, according to their own site was created with a focus to simplify the fintech infrastructure.
   This came with focus on breaking barriers with technology and information and spreading a level of transparency and efficiency amongst their client.
@@ -16,7 +16,7 @@ HW submission
   
 ### What does Enfusion do?
 ---
-	Enfusion is driven to allow institutional asset managers and hedge fund managers to have investment management software and analytics.
+Enfusion is driven to allow institutional asset managers and hedge fund managers to have investment management software and analytics.
   This will give them an efficient and modern result. 
   In this way they can better their client’s experiences with investment while managing their risks.
   They plan to break the boundaries of traditional investment management and fully integrate the offices of investment managers in a single system. The clients of Enfusion mostly consists of investment managers, investment advisors, and traders alike. 
@@ -26,7 +26,7 @@ HW submission
   
 ### How is Enfusion doing in Investment Management?
 ---
-	Enfusion is a relatively new start-up among fintech investment management companies.
+Enfusion is a relatively new start-up among fintech investment management companies.
   Enfusion mainly deals with clients from the investment management domain and many big players can be found in domain. 
   There are plenty of financial institutions that handle investment portfolios such as Bank of America, JP Morgan, Fidelity, etc.
   In fact, Fidelity has been looking into ways to integrate their wealth and investment management into the fintech world. This includes merging their financial service models and providing robo-advisor to clients with a minimum $50,000 investment. In the investment management domain, in the last 5-10 years, there has been a shift from active management to passive management.
@@ -35,7 +35,7 @@ HW submission
   
 ### How does Enfusion compare?
 ---
-	Enfusion seems to do relatively well in companies.
+Enfusion seems to do relatively well in companies.
   It has even been named the leading global provider of investment management technology solutions and services by PR Newswire.
   Enfusion has made a rather noticeable impact in the way the investment management infrastructure functions.
   Especially nowadays with the effect of COVID-19 as they have added extra stress in the areas of cost pressure and transparency. 
@@ -49,7 +49,7 @@ HW submission
   
 ### My Recommendations for Enfusion
 ---
-	 Enfusion has the potential to grow into an even bigger and impactful especially given the current state of the world. 
+Enfusion has the potential to grow into an even bigger and impactful especially given the current state of the world. 
   I think that for Enfusion to grow that they could also provide their clients detailed performance metrics so that they can assess how their investments are doing in comparison. I think it will give their clients feel more comfortable and allow them even more transparency in seeing how they are doing.
   I believe that outside of using Saas, Enfusion could also implement Pandas so that their data sets can have their financial performance metrics.
   I also feel like it would be beneficial to work with financial institutions that help people manage their investments such as Bank of America, Wells Fargo, etc.
